@@ -1,4 +1,4 @@
-# Hi, I am Iago
+# Hi, I am Iago 👋
 
 Full-Stack Developer, Trainee 🖥️
 
@@ -7,6 +7,10 @@ I'm currently learning VueJs, JavaScript and C#
 I currently work at BRG Educacional 🇧🇷
 
 <b>I love the challenges of coding and it moves me every day</b> 🧠
+
+<b>Skills</b>
+<code>
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript>
 
 Contact me 👇
 <br><br>
