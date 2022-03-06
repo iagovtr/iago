@@ -10,4 +10,4 @@ I currently work at BRG Educacional 🇧🇷
 
 Contact me 👇
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+(https://www.linkedin.com/in/iagovtr/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]
