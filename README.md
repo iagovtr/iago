@@ -8,12 +8,6 @@ I currently work at BRG Educacional 🇧🇷
 
 <b>I love the challenges of coding and it moves me every day</b> 🧠
 
-<b>Skills</b>
-<br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a>
-
 Contact me 👇
 <br><br>
 <a href="https://www.linkedin.com/in/iagovtr" alt="linkedin" target="_blank">
