@@ -9,8 +9,10 @@ I currently work at BRG Educacional 🇧🇷
 <b>I love the challenges of coding and it moves me every day</b> 🧠
 
 <b>Skills</b>
+<br>
 <code>
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript>
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript>
+</code>
 
 Contact me 👇
 <br><br>
