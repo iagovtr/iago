@@ -10,5 +10,5 @@ I currently work at BRG Educacional 🇧🇷
 
 Contact me 👇
 <br><br>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="iagovtr" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/iagovtr?trk=profile-badge">Iago A.</a></div>
+<a href="https://www.linkedin.com/in/iagovtr" alt="linkedin" target="_blank">
               
