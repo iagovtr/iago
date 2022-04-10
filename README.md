@@ -1,10 +1,10 @@
 # Hi, I am Iago 👋
 
-Full-Stack Developer, Trainee 🖥️
+Front-End Developer, Jr 🖥️
 
-I'm currently learning VueJs, JavaScript and C#
+I'm currently learning VueJs, ReactJS and JavaScript
 
-I currently work at BRG Educacional 🇧🇷
+I currently work at Claranet Brasil 🇧🇷
 
 <b>I love the challenges of coding and it moves me every day</b> 🧠
 
