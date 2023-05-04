@@ -1,12 +1,12 @@
 # Hi, I am Iago 👋
 
-Front-End Developer, Jr 🖥️
+Jr. Full-Stack Developer 🖥️
 
-I'm currently learning VueJs, ReactJS and JavaScript
+I work with technologies: NodeJS, Python, .NET, ReactJS, GraphQL, TypeScript, Docker, SQL Server, etc.
 
-I currently work at Claranet Brasil 🇧🇷
+Developer at Claranet Brasil 🇧🇷
 
-<b>I love the challenges of coding and it moves me every day</b> 🧠
+<b>I love the challenges of programming and it drives me every day.</b> 🧠
 
 Contact me 👇
 <br><br>
