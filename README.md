@@ -1,10 +1,10 @@
 # Hi, I am Iago 👋
 
-💻 Jr. Full-Stack Developer
+💻 Senior Full Stack Developer
 
-👨‍💼 I work with technologies: NodeJS, Python, .NET, ReactJS, GraphQL, TypeScript, Docker, SQL Server, etc
+👨‍💼 I work with technologies: NodeJS, SpringBoot, Python, .NET, ReactJS, TypeScript, Docker, SQL Server, AWS Lambdas, etc
 
-🏤 Developer at Claranet Brasil 🇧🇷
+🏤 Back-End Developer at Muevy 🇧🇷
 
 🏗️ At the moment, I am working on renewing my personal portfolio, but soon my repositories will be public
 
