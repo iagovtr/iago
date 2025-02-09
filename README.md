@@ -2,7 +2,7 @@
 
 💻 Senior Full Stack Developer
 
-👨‍💼 I work with technologies: NodeJS, SpringBoot, Python, .NET, ReactJS, TypeScript, Docker, SQL Server, AWS Lambdas, etc
+👨‍💼 I work with technologies: NodeJS, Quarkus, Python, ReactJS, TypeScript, Docker, SQL Server, AWS Lambda, Kubernets, etc
 
 🏤 Back-End Developer at Muevy 🇧🇷
 
